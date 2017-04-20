@@ -1,8 +1,0 @@
-/tmp/kitchensink/src/main/java/org/jboss/as/quickstarts/kitchensink/service/MemberRegistration.java
-/tmp/kitchensink/src/main/java/org/jboss/as/quickstarts/kitchensink/controller/MemberController.java
-/tmp/kitchensink/src/main/java/org/jboss/as/quickstarts/kitchensink/data/MemberListProducer.java
-/tmp/kitchensink/src/main/java/org/jboss/as/quickstarts/kitchensink/rest/JaxRsActivator.java
-/tmp/kitchensink/src/main/java/org/jboss/as/quickstarts/kitchensink/model/Member.java
-/tmp/kitchensink/src/main/java/org/jboss/as/quickstarts/kitchensink/util/Resources.java
-/tmp/kitchensink/src/main/java/org/jboss/as/quickstarts/kitchensink/data/MemberRepository.java
-/tmp/kitchensink/src/main/java/org/jboss/as/quickstarts/kitchensink/rest/MemberResourceRESTService.java
